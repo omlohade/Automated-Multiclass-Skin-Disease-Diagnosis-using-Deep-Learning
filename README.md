@@ -1,4 +1,4 @@
-LinkedIn Project Description:
+
 
 Title: Automated Multiclass Skin Disease Diagnosis using Deep Learning
 
@@ -24,16 +24,10 @@ Description:
 
 9. **Apply Data Augmentation:** Successfully applied data augmentation techniques to the training dataset.
 
-10. **Compile Model:** Compiled the model using the Adam optimizer, Sparse Categorical Cross-entropy loss function, and accuracy as the metric.
+10. **Train Model:** Methodically trained the model on the training dataset, validating its performance at the end of each epoch.
 
-11. **Train Model:** Methodically trained the model on the training dataset, validating its performance at the end of each epoch.
+11. **Evaluate Model:** Analyzed the model's performance using a dedicated test dataset.
 
-12. **Evaluate Model:** Analyzed the model's performance using a dedicated test dataset.
+12. **Save Model:** Secured the trained model to a specified directory for future use or deployment.
 
-13. **Save Model:** Secured the trained model to a specified directory for future use or deployment.
 
-🚀 Check out the code on GitHub: [Skin Disease Detection GitHub Repository](https://github.com/Skin-Disease-Detection/WT-PROJECT)
-
-Join me on this journey of leveraging deep learning for automated skin disease diagnosis! Let's make an impact together. 💻🔍🤖 #DeepLearning #SkinDiseaseDiagnosis #TensorFlow #MachineLearning #GitHubProject #WebApplication #Flask #AIinHealthcare
-
-Feel free to customize the description based on your preferences and LinkedIn style. Good luck with your project!
